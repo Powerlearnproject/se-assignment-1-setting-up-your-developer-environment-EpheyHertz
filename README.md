@@ -49,6 +49,8 @@ https://replit.com/@mwain579/se-assignment-1-setting-up-your-developer-environme
 
 15. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process.
+
+    Please I have been using my Android phone. The hardest part was understanding how to use replit. I was able to configure it with my github account. This allowed me to push and pull from my github. 
     
 
 #Deliverables:
